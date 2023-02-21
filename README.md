@@ -4,7 +4,7 @@
 
 <!-- DESCRIPTION -->
 
-![Screen page][screen]
+![Screen page][screen] 
 
-[screen]: gif/web-tutorial.gif
+[screen]: gif/web-tutorial.gif =250x250
 </div>
