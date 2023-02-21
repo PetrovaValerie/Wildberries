@@ -6,5 +6,5 @@
 
 ![Screen page][screen] 
 
-[screen]: gif/web-tutorial.gif =250x250
+[screen]: gif/web-tutorial.gif  | width=100
 </div>
