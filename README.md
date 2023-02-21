@@ -4,7 +4,7 @@
 
 <!-- DESCRIPTION -->
 
-![Screen page]([screen]  | width=100)
+![Screen page][screen]
 
 [screen]: gif/web-tutorial.gif  
 </div>
